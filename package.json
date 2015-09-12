@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "bower install",
+    "upload": "versal upload"
+  }
+}
