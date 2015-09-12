@@ -1,0 +1,8 @@
+{
+  "launcher": "iframe",
+  "name": "hello-world",
+  "version": "0.1.0",
+  "title": "Hello world",
+  "description": "Hello world",
+  "author": "Mike"
+}
