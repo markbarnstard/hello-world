@@ -1,4 +1,11 @@
 
+### 0.3.1 (crafted 9/12/2015)
+
+Changes:
+
+  * (Mike Bannister) Did something, again
+
+---
 ### 0.3.0 (crafted 9/12/2015)
 
 Changes:
