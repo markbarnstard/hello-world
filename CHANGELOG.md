@@ -1,4 +1,12 @@
 
+### 0.1.6 (crafted 9/12/2015)
+
+Changes:
+
+  * (Mike Bannister) Did something, again
+  * (Mike Bannister) Update name
+
+---
 ### 0.1.5 (crafted 9/12/2015)
 
 Changes:
