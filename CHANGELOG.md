@@ -1,4 +1,12 @@
 
+### 0.4.16 (crafted 10/10/2015)
+
+Changes:
+
+  * (Mike Bannister) Did crazy things (foo)
+
+
+---
 ### null
 
 ---
