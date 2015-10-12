@@ -1,4 +1,14 @@
 
+### 0.6.0 (crafted 10/11/2015)
+
+Changes:
+
+  * (Mike Bannister) Did crazy things
+  * (Mike Bannister) Did crazy things
+  * (Mike Bannister) Did things
+  * (Mike Bannister) Did things
+
+---
 ### 0.5.3 (crafted 10/10/2015)
 
 Changes:
