@@ -1,4 +1,12 @@
 
+### 0.6.1 (crafted 10/11/2015)
+
+Changes:
+
+  * (Mike Bannister) Did crazy things (mooof)
+
+
+---
 ### 0.6.0 (crafted 10/11/2015)
 
 Changes:
