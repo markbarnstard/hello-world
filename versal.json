@@ -1,7 +1,7 @@
 {
   "launcher": "iframe",
   "name": "hello-world-ci",
-  "version": "0.7.7",
+  "version": "0.8.0",
   "title": "Hello world",
   "description": "Hello world",
   "author": "Mike"
