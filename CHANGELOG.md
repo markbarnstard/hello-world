@@ -1,4 +1,11 @@
 
+### 0.8.3 (crafted 10/13/2015)
+
+Changes:
+
+  * (Mike Bannister) Did crazy things
+
+---
 ### 0.8.2 (crafted 10/13/2015)
 
 Changes:
