@@ -1,4 +1,18 @@
 
+### 0.9.10 (crafted 10/17/2015)
+
+Changes:
+
+  * (Mike Bannister) Did crazy things
+  * (Mike Bannister) Did crazy things
+  * (Mike Bannister) Did crazy things
+  * (Mike Bannister) Did crazy things
+  * (Mike Bannister) 0.9.7 (crafted 10/17/2015)
+  * (Mike Bannister) Did crazy things
+
+Validation notes: Mike Bannister (notimpossiblemike@gmail.com) couldn't be bothered writing validation notes :-(
+
+---
 ### 0.9.7 (crafted 10/17/2015)
 
 Changes:
