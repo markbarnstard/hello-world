@@ -1,4 +1,13 @@
 
+### 0.9.13 (crafted 10/18/2015)
+
+Changes:
+
+  * (Mike Bannister) Did crazy things
+
+Validation notes: Mike Bannister (notimpossiblemike@gmail.com) couldn't be bothered writing validation notes :-(
+
+---
 ### 0.9.12 (crafted 10/18/2015)
 
 Changes:
